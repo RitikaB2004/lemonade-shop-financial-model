@@ -1,4 +1,4 @@
-# 🍋 Lemonade Stand Financial Modeling – Review & Recap (Section 2)
+# 🍋 Lemonade Stand Financial Modeling – Review & Recap
 
 ## 📘 Description
 This repository contains a structured financial model for a small lemonade stand business, developed as part of a foundational review in financial modeling. It walks through the essential steps of building a model from scratch, including:
