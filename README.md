@@ -1,5 +1,13 @@
 # 🍋 Lemonade Stand Financial Modeling – Review & Recap
 
+## 📑 Table of Contents
+- [Description](#description)
+- [How to Use](#how-to-use)
+- [Key Assumptions](#key-assumptions)
+- [Unit Economics Summary](#unit-economics-summary)
+- [Labor & Pricing Strategy](#labor--pricing-strategy)
+- [Final Notes](#final-notes)
+
 ## 📘 Description
 This repository contains a structured financial model for a small lemonade stand business, developed as part of a foundational review in financial modeling. It walks through the essential steps of building a model from scratch, including:
 - Identifying product components and setup costs
@@ -9,19 +17,11 @@ This repository contains a structured financial model for a small lemonade stand
 - Incorporating labor costs and setting a realistic selling price
 - Applying basic modeling principles applicable across industries
 
-The model emphasizes practical assumptions, bulk pricing, and realistic planning to simulate a small-scale business operation. Ideal for beginners in financial modeling or entrepreneurship.
-
-## 📑 Table of Contents
-- [Description](#description)
-- [How to Use](#how-to-use)
-- [Key Assumptions](#key-assumptions)
-- [Unit Economics Summary](#unit-economics-summary)
-- [Labor & Pricing Strategy](#labor--pricing-strategy)
-- [Final Notes](#final-notes)
+The model emphasizes practical assumptions, bulk pricing, and realistic planning to simulate a small-scale business operation.
 
 ## 🛠️ How to Use
 1. Clone or download the repository.
-2. Open the financial model file (Excel or PDF).
+2. Open the financial model file.
 3. Review the assumptions and calculations.
 4. Modify inputs to simulate different business scenarios.
 
